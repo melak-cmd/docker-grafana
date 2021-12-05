@@ -1,0 +1,16 @@
+{
+    "gosu": {
+        "arch": "amd64",
+        "digest": "3e6fc37ca073b10a73a804d39c2f0c028947a1a596382a4f8ebe43dfbaa3a25e",
+        "distro": "debian-10",
+        "type": "NAMI",
+        "version": "1.14.0-0"
+    },
+    "grafana": {
+        "arch": "amd64",
+        "digest": "60ae1dccde29e887bd635fb00ff1ec492900a0b0802b7cd60e3f57efa675726e",
+        "distro": "debian-10",
+        "type": "NAMI",
+        "version": "8.3.0-0"
+    }
+}
