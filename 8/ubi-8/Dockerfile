@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8:8.5-200
+FROM registry.access.redhat.com/ubi8
 LABEL maintainer "Bitnami <containers@bitnami.com>"
 
 ENV HOME="/" \
